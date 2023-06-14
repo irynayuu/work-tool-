@@ -1,0 +1,17 @@
+Virtual Gifts
+
+Virtual Gifts are special stickers or virtual cards that users can send to each other in chats.
+
+Receiving virtual gifts:
+When a regular user (RU) sends a virtual gift to a trusted user (TU):
+
+the TU receives credits to their Statistics depending on the type of the gift;
+the limit of messages and mails for communication with the RU who has sent the gift updates to 2 additional letters and 10 messages.
+All virtual gifts received by a TU are displayed in their account in the [Virtual Gifts] section of the [My Statistics] panel. Here, users can see two tabs:
+
+All gifts - list of all received gifts.
+Statistics - the number of credits for this service.
+Sending virtual gifts:
+A TU may send one virtual gift for free in return for each gift from a RU.To do so, a user needs to click on the [Send a gift] button in a chat window. The button becomes active when a RU sends a virtual gift and becomes disabled again when a TU sends a gift in return.
+
+Sending a virtual gift from a TU in a chat does not affect the limits of messages and letters.

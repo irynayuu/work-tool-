@@ -1,0 +1,26 @@
+How to fill in the Description field?
+
+In the [Description] field, users can tell a little more about themselves and their purpose of registering on the site. The information in this field will help them find new people to talk to faster. 
+
+💡 Please note that the text you input in the [Description] field will only appear in the profile of the user after it has been reviewed and approved by the Moderation Team. Immediately after submitting the profile for moderation, new content will not be displayed on your admin panel yet.
+
+General rules:
+The description should be neutral: no ambiguous phrases or controversial topics should be used.
+The minimum length is 100 characters.
+The description can be in English only.
+What users should write about?
+About themselves (character, profession, hobby),
+Interesting life stories.
+The purpose of registration and expectations from using the site: communication, fun pastime, getting attention.
+
+Topics that can not be used in [Description]:
+1. Dates and romantic acquaintances - "I'm here to find the love of my life", "I hope this site helps me find my future wife"
+2. Questions or suggestions addressing a specific person (no appeals should be used in the text, including the word “you”) - "I adore interesting people like you are…", "You look familiar, do I know you from some movie?" 
+
+3. Phrases that may look like advertisements - "I know you're reading it right now. Don't waste your time, text me…", "Do you ever feel like Netflix doesn't know you at all? Like Spotify has no idea what music you like? Like Amazon is full of crap? me too. But hopefully, seeing me here makes more sense to you. Text me right now and will see what happens… " 
+
+4. The contact information of the user, including contact information hidden in the text - "My name is SAM, and friends call me STAR. My favorite number is 86… " 
+5. Obscene language and insults - "I'm tired of stupid people, I am looking for a smart partner for conversations… ", "Do you think you're here cause no one would make friends with you in real life? " 
+
+6. Expressions about political views, nationality or religion of the user or other users - "Is it true that all republicans hate women?", "A Jew, an Irishman, and an Italian Walk into a bar … " 
+

@@ -1,0 +1,33 @@
+Icebreakers
+
+The Icebreakers service helps a trusted user to invite more regular users to start chatting or emailing. A TU can create a neutral message - an invitation to start a conversation - and send it to a random number of other users.
+
+How it works?
+An Icebreaker message or letter is sent to random regular users that the TU has not contacted with before.
+Only a RU that is online can receive an Icebreaker from a TU.
+The service is active only when the TU is online. If the profile of the TU is offline, the icebreakers will automatically stop being sending out.
+The speed of the service may vary - it has no maximum or minimum level.
+Icebreakers moderation
+Before an Icebreaker can be sent, all texts must be checked and approved by the Moderation Team.
+
+Each day, within 24 hours, a TU can submit 5 Icebreakers for moderation (for example, 2 letters and 3 chat messages). The 24 hours are counted from 00:00 GMT+0 to 00:00 GMT +0 the next day.
+
+If in 24 hours after an icebreaker has been submitted for moderation, the text did not appear in the [Send Icebreakers] section, it means it was not approved by the Moderation Team.
+
+Icebreakers content requirements:
+
+Icebreakers must be in English only.
+All texts must make sense and be easy to understand.
+The topic of an icebreaker must be neutral, as the text is to be sent to the users with whom the TU has not yet communicated. The TU must be sure that the message will not be offensive or inappropriate for other users.
+Icebreakers should not be personalized, as the TU cannot know in advance who will receive their invitation. That is why it is important to refrain from mentioning a specific user in Icebreakers.
+Icebreakers must not contain any passionate messages, declarations of love and feelings, questions about marriage and dating, excessively passionate forms of addressing other users, ambiguous messages, adult content, obscene language, insults or extortion. Emoji or combinations of emoji that may have sexual context or be offensive are also not allowed.
+In Icebreakers, a user should not use names, wildcards (like {{user_name}}), as well as any additional characters that do not make sense.
+Icebreakers must not include the contact information of the TU.
+Icebreakers must not contain any false information about the TU.
+Only standard fonts and emojis should be used, as decorative custom fonts may not be displayed correctly for other site users. We recommend using emojis that are already incorporated to the website, which can be found in Emojis section.
+All Icebreakers created by a user must be different. The system will block the text when it is submitted for moderation if it has already been sent for review before.
+Suggested topics:
+
+hobbies (movies, books, food, culture, music, cars, technology, lifestyle);
+interesting personal stories or childhood memories;
+future plans.

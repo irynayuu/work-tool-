@@ -1,0 +1,21 @@
+What is a registration video? (Europe)
+
+To become a trusted user, a regular user must provide a registration video. This video is to be uploaded in the [Upload registration video] field when creating a profile.
+
+Please note that the video upload button in new profiles becomes available only after a profile has been submitted for moderation. 
+
+Registration video general requirements
+The user is to demonstrate a document confirming their identity so that all information is clearly visible. The main page of the document must be in the close-up frame for at least 5 seconds. The ID card should be demonstrated from both sides.
+The image should not be mirrored, inverted, blurry or fuzzy.
+In the video, the user must specify:  
+their name (is to be the same as in ID card or passport),
+the name of the website for regular users they are registered with - Place to chat,
+confirmation that they are willing to apply for trusted user membership. 
+The text of the video is to be exactly as follows:
+The language of the video can be chosen by the user, either in English, Ukrainian or Russian, according to their preference.
+
+ENG: "My name is (user's full name). I am a user of the PTC and with this video I would like to confirm my application for a user membership".
+
+For the citizens of Moldova, Romania, Hungary, Slovenia, Serbia, Bulgaria, Albania, Czech Republic, North Macedonia or Croatia:"My name is [Full name]. I am a user of the Place to chat platform and with this video I would like to confirm my application for trusted user membership. I also give my consent for my personal data collecting, storage, and processing. This concerns all the personal data that I have voluntarily provided for the purposes of registration on a platform."
+
+*The text of the registration video may differ depending on the product. For more detailed information, please contact our Customer Support using the Help widget in your account or by email help@datame.cloud.

@@ -1,0 +1,68 @@
+NewsFeed
+            
+Using the NewsFeed service, a trusted user can create and share posts in the news feed of the platform. Regular users can start following or chatting with the TU whose post they like. 
+
+Types of posts                                                                                          
+1. Automatic announcement about the beginning of a Stream session.                                                     
+
+If a TU starts a Stream session, a notification about it will automatically appear in the news feed of the platform so that other users can join it in time if they would like to. 
+
+Auto announcement might not be available on some products of the platform.
+
+2. Posts created by a TU.
+
+A TU can manually create a post, wait for it to be moderated, and then share the post in the NewsFeed.
+
+A NewsFeed can contain:
+
+only text: minimum size - 100 characters, maximum - 1500 characters;
+only photos: up to 10 images from previously approved photos from Media gallery;
+text and photos: maximum size - 1500 characters, no minimum size, up to 10 images from previously approved photos from Media gallery.
+NewsFeed publishing
+A TU can submit up to 10 posts for moderation per day. 24 hours are counted from 00:00 GMT+0.
+A TU can publish 2 posts per day. 24 hours are counted from 00:00 GMT+0.
+Each approved post can only be published only once.
+Usually, regular users will be able to see the new post within 24 hours after the TU has published it. The publication may be delayed if there are a lot of posts being published by different users.
+NewsFeed texts moderation
+In the NewsFeed, a TU can:
+
+share non-personalized texts on neutral topics;
+add a description to the photos in the post;
+tell other users about themselves, their mood or hobbies;
+invite other users to watch their Stream;
+tell other users when their next Stream session will be.
+Will be rejected:
+
+texts about dating or romantic relationships, as well as too personal appeals to other users, including romantic or erotic promises and proposals;
+phrases that may have sexual context;
+provocative phrases and calls to action;
+texts with direct or indirect extortion;
+texts that contain user's contact information (for example, full name or address);
+obscene or offensive phrases;
+personalized messages (addressed to a specific user or users);
+non-original texts, except for quotes;
+meaningless texts, fragments of messages;
+misleading information (any information that does not match the information specified in the TU's profile).
+NewsFeed photos moderation
+In the news feed, a TU can:
+
+share their personal photos of food, places or cities;
+add stickers or frames to images if they comply with other moderation rules;
+post photos with friends or relatives.
+Will be rejected:
+
+poor quality images: cropped, upside down or with bad lighting;
+photos with any logos and inscriptions;
+screenshots;
+photos of a pornographic, offensive or discriminatory nature;
+photos that are publicly available on other sites;
+photos containing advertising information;
+photos containing contact information;
+photos of people in the nude, in a swimsuit or underwear (photos showing a user in a swimwear can only be approved if the user's appearance matches the surroundings, for example, the user is at the pool or on the beach);
+photographs showing underwear, including partially or through clothing;
+photographs of people wearing low-cut or overly-tight clothing (but photos in sportswear at the gym or during a workout may be accepted);
+photos of other people without a user, including a photo of a child without an adult;
+images that contain alcohol, drugs, any tobacco products, including electronic cigarettes, as well as photos of people in a state of alcohol or drug intoxication;
+photos in which the user's face is poorly visible;
+photos of the user with a gift that is available for ordering on the site;
+the same photo in one post.
